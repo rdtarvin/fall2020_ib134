@@ -9,4 +9,4 @@ For this tutorial, you will be using three different files:
   -Pokemon.csv
 
 
-Please follow along with the instructions providd on the Week 1 Module on bCourses. 
+Please follow along with the instructions provided on the Week 1 Module on bCourses. 

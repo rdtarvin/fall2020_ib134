@@ -2,9 +2,9 @@
 
 For this tutorial, you will be using three different files:
 
-  -IB134L_PythonBasics
+  -IB134L_PythonBasics.ipynb
   
-  -bashbasics
+  -bashbasics.ipynb
   
   -Pokemon.csv
 
